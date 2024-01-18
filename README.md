@@ -1,16 +1,16 @@
-🔭 I’m currently working on fabric mod
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=afutik&label=Profile%20views&color=0e75b6&style=flat" alt="afutik" /> </p>
 
-🌱 I’m currently learning java
-<!--
-**AFUtik/afutik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [fabric mod](https://github.com/AFUtik/fabric-mod-1.20)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **java**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afutik&show_icons=true&locale=en" alt="afutik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afutik&" alt="afutik" /></p>
