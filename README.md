@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afutik&label=Profile%20views&color=0e75b6&style=flat" alt="afutik" /> </p>
-
 - 🔭 I’m currently working on [fabric mod](https://github.com/AFUtik/fabric-mod-1.20)
 
 - 🌱 I’m currently learning **java**
