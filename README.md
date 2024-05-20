@@ -8,12 +8,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=afutik.afutik&"  />
-</div>
-
-###
-
 <h1 align="center">Welcome</h1>
 
 ###
