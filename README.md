@@ -16,7 +16,9 @@
 
 ###
 
-<p align="left">I'm afutik from Ukraine, 15 years old</p>
+<p align="left">Hello, I'm afutik from Ukraine, 15 years old. I generally work on CPP projects. Sometimes code in Java. 
+
+</p>
 
 ###
 
@@ -33,12 +35,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=afutik&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
