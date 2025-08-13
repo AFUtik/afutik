@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Hello, I'm afutik from Ukraine, 15 years old. I generally work on CPP projects. Sometimes code in Java. 
+<p align="left">Hello, I'm afutik from Ukraine, 16 years old. I generally work on CPP projects. Sometimes code in Java and python. 
 
 </p>
 
